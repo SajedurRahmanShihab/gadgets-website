@@ -17,3 +17,7 @@
 .mid {
   text-align: center;
 }
+
+.two {
+  flex-wrap: wrap;
+}
