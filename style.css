@@ -1,3 +1,7 @@
 .container {
   margin-bottom: 100px;
 }
+
+.carousel .carousel-item {
+  transition-duration: 1s;
+}
