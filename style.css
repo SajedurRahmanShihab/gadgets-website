@@ -3,15 +3,8 @@
 }
 
 .bg1 {
-  background-image: url(images/bg-1.png);
-  background-repeat: no-repeat;
+  background-image: url(images/bg-1.png), url(images/bg-2.png);
+  background-repeat: no-repeat, no-repeat;
   background-attachment: fixed;
-  background-position: center;
-}
-
-.bg2 {
-  background-image: url(images/bg-2.png);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: left bottom;
+  background-position: center, left bottom;
 }
