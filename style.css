@@ -8,3 +8,12 @@
   background-attachment: fixed;
   background-position: center, left bottom;
 }
+
+.card {
+  padding: 32px;
+  text-align: center;
+}
+
+.mid {
+  text-align: center;
+}
