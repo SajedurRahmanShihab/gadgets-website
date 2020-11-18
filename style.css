@@ -21,3 +21,7 @@
 .two {
   flex-wrap: wrap;
 }
+
+.pale img {
+  width: 100%;
+}
